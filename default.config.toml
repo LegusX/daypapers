@@ -1,0 +1,14 @@
+# Put {{image}} in place of the image path in the command
+wallpaper_command = "swww img {{image}}"
+
+# What hour each daypart starts at
+morning = 5
+day = 11
+evening = 17
+night = 21
+
+# Ensure that every hour a different image is used (when possible)
+always_change = true
+
+# How often, in minutes, to change the wallpaper
+update_interval = 60
